@@ -1,0 +1,8 @@
+POST https://3000-testakun-nodejscliapp-s1vp1ywu64h.ws-us45.gitpod.io/api/signup
+Content-Type: application/json
+
+{
+    "name": "ardato",
+    "email": "alvid@gmail.com",
+    "password": "test123"
+}

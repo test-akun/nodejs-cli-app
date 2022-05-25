@@ -1,0 +1,17 @@
+{
+    "name": "node-starter",
+    "version": "0.0.0",
+    "private": true,
+    "scripts": {
+        "start": "node index.js",
+        "dev": "nodemon index.js"
+    },
+    "dependencies": {
+        "bcryptjs": "^2.4.3",
+        "express": "^4.17.1",
+        "mongoose": "^6.3.4"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.16"
+    }
+}
