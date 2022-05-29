@@ -1,1 +1,12 @@
-GET https://3000-testakun-nodejscliapp-igk4cr3yuyv.ws-us45.gitpod.io/api/transactions
+GET https://3000-testakun-nodejscliapp-gzrbuc1nshy.ws-us46.gitpod.io/api/transactions
+
+###
+POST https://3000-testakun-nodejscliapp-gzrbuc1nshy.ws-us46.gitpod.io/api/transactions
+Content-Type: application/json
+
+{
+    "value": 13
+}
+
+###
+DELETE https://3000-testakun-nodejscliapp-gzrbuc1nshy.ws-us46.gitpod.io/api/transactions/6293087614e3d70ce4f372cf
