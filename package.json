@@ -5,7 +5,7 @@
     "main": "server.js",
     "scripts": {
         "start": "node server",
-        "dev": "nodemon logEvents"
+        "dev": "nodemon server"
     },
     "author": "Dave Gray",
     "license": "ISC",
