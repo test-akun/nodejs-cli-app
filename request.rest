@@ -1,0 +1,4 @@
+GET https://3500-testakun-nodejscliapp-jx0zhdwxt4r.ws-us46.gitpod.io
+
+###
+GET https://3500-testakun-nodejscliapp-jx0zhdwxt4r.ws-us46.gitpod.io/
